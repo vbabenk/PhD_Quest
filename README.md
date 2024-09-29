@@ -20,7 +20,7 @@
 ### Пункт 1
 [Замовити](https://docs.google.com/document/d/1RoRbwXfyfOW9fIjqEYDKzC9WyoK52CzS/edit?usp=drive_link&ouid=108065133717772436360&rtpof=true&sd=true) на факультеті довідку про виконання ОНП та після оформлення отримати її у відділі аспірантури та докторантури. Порядок отримання довідки [тут](https://drive.google.com/file/d/1qAVGUsiLoPZMDkjYenC2_edoYiYIu_Mb/view?usp=drive_link).
 ### Пункт 2
-Відправити запит на довідку-підтвердження від НТБ ім. Г.І. Денисенка [(зразок 1)](https://docs.google.com/document/d/1IA47vNbxDo9J5hxXFOYQPgdLpSg2uMuG/edit?usp=drive_link&ouid=108065133717772436360&rtpof=true&sd=true) та надсилання на адресу science@library.kpi.ua.
+Запит на довідку-підтвердження від НТБ ім. Г.І. Денисенка [(зразок 1)](https://docs.google.com/document/d/1IA47vNbxDo9J5hxXFOYQPgdLpSg2uMuG/edit?usp=drive_link&ouid=108065133717772436360&rtpof=true&sd=true) та надсилання на адресу science@library.kpi.ua.
 У довідку необхідно вносити публікації за темою дисертації згідно певного рівня, зазначеного чинним законодавством, а саме: статті у фахових виданнях за спеціальністю дисертації (!), що відноситься до відповідної галузі знань/ категорії «Б», що входить до Web of Science Core Collection та/або Scopus (категорії «А»), першого — третього квартилів (Q1—Q3) відповідно до класифікації SCImago Journal and Country Rank або Journal Citation Reports.
 > [!WARNING]
 > - на час подання документів всі роботи повинні бути опубліковані;

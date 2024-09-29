@@ -16,6 +16,7 @@
 **Процедура захисту дисертації триває з 01 січня по 30 вересня 4-го року навчання в аспірантурі, тобто до 9 місяців!**
 ## I. Реалізація на кафедрі
 ### Етап 1 (перший місяць процедури захисту дисертації)
+![Stage 1](TheProcedure-Page-2.png)
 #### Пункт 1
 [Замовити](https://docs.google.com/document/d/1RoRbwXfyfOW9fIjqEYDKzC9WyoK52CzS/edit?usp=drive_link&ouid=108065133717772436360&rtpof=true&sd=true) на факультеті довідку про виконання ОНП та після оформлення отримати її у відділі аспірантури та докторантури. Порядок отримання довідки [тут](https://drive.google.com/file/d/1qAVGUsiLoPZMDkjYenC2_edoYiYIu_Mb/view?usp=drive_link).
 #### Пункт 2
